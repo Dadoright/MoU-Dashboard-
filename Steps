@@ -1,0 +1,25 @@
+Create Database 
+Update it in Workbench
+
+add the Database Config file 
+
+Install Dependencies
+    npm init 
+    npm install packages 
+        Express
+        mysql2
+        cors
+        nodemon
+
+add gitignore file
+
+create Index.js file
+
+create the route folder 
+    country
+
+Create the Frontend
+    npx create-react-app "name"
+
+Change the App.js
+
