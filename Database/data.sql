@@ -1,4 +1,4 @@
-USE MOUDATABSE;
+USE mou;
 
 INSERT INTO `role` (`role_id`, `role_name`) VALUES ('4c141265-cd5e-3dbe-950c-09022d09e040','SUPER_ADMIN');
 INSERT INTO `role` (`role_id`, `role_name`) VALUES ('bb40baa1-7477-3016-a0d6-ad69b33cdc5b','ADMIN');
