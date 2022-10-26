@@ -32,9 +32,7 @@ there are opportunities available for Higher Studies, Scholarships, Student/Staf
 
 Quote
 
--
-We have planned to develop a Dashboard for our website to indicate the MoUs/Grants and the process of taking approvals, including its current status, which would be beneficial for all the MoU Coordinators/ Grant Holders as well as for other academic and non-academic staff.
--
+"We have planned to develop a Dashboard for our website to indicate the MoUs/Grants and the process of taking approvals, including its current status, which would be beneficial for all the MoU Coordinators/ Grant Holders as well as for other academic and non-academic staff."
 
 ## Importance of MOUs and Knowing where the MOU request is at the moment
  
@@ -48,17 +46,55 @@ A Memorandum of Understanding (MoU) may include, for example, a commitment to ex
 (Source - Collaborations,MOUs,International Relations Office[InRO]).
 
 The international relations office of the University of Peradeniya has about 100 partners, from various foreign countries, 
-1.Australia			2.Austria			3.Belgium
-4.Bhutan 			5.Cambodia			6.Canada 
-7.China			8.Czech Republic		9.Ethiopia
-10.Finland			11.Germany			12.India
-13.Ireland			14.Italy 			15.Kenya
-16.Latvia			17.Japan			18.Malaysia
-19.Nepal			20.New Zealand		21.Pakistan
-22.Romania			23.Singapore			24.Spain
-25.South Korea		26.Switzerland		27.United States
-28.Thailand			29.Turkey			30.Uganda
+
+- Australia		
+- Austria		
+- Belgium
+- Bhutan 			- Cambodia			- Canada 
+- China			- Czech Republic		- Ethiopia
+- Finland			- Germany			- India
+- Ireland			- Italy 			- Kenya
+- Latvia			- Japan			- Malaysia
+- Nepal			- New Zealand		- Pakistan
+- Romania			- Singapore			- Spain
+- South Korea		- Switzerland		- United States
+- Thailand			- Turkey			- Uganda
 
 Most of these partners are higher education institutions based in the countries mentioned above. Therefore the importance of having a legal document in a proper way is a necessity.
+
+
 Other than that, the time taken for the signing of MOUs due to lack of communication can be reduced by updating the website in a more user-friendly nature towards MOUs. Furthermore, some international educational institutes provide educational opportunities to undergraduates and fresh graduates with deadlines and other documentation, so the signing of MOUs in a quick session will become beneficial for InRO UOP, undergraduates and staff who are interested in applying for the opportunities.
+
+## Deliverables by the development team
+
+- Ability to usage by admins of InRO and other stakeholder
+- Change and edit info about the MOUs that are available in a given time
+- View the already existing MoUs in that are there
+- Add new MoUs into the Database
+- Track the route of MoUs when it is in the signing stage.
+
+## Project Scope 
+
+This MoU dashboard can only view and edit the details relevant to a given MoU, but it cannot be used to sign or pass the MoUs to relevant parties. An admin should collect the facts about the MoUs and should upload the details whenever necessary.
+
+## Plan of Development Team
+
+### UI(User Interface)
+
+The page contains an user-friendly interface to go to the pages of User & MOUs,the logos.In the right corner of the page the icon of the profile of the user.From that we can see the profile of the user.
+
+## Users
+
+This page shows the details of users of the website. There are four types of users.
+
+### Super Admin 
+- The developers of this website are super admin. They can add admins and editors to the website.
+### Admin
+- The staff from the IR office are the Admins. They can add editors to the websites.
+### Editor
+- The data entry officers are the Editors. They can add & edit  the details about the MOUs and details regarding the activities.
+### Viewer
+- The outsiders are the viewers. They can see the general information about InRO, the MOUs and the partne r universities.
+	
+
 
