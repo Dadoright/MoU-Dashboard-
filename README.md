@@ -50,15 +50,33 @@ The international relations office of the University of Peradeniya has about 100
 - Australia		
 - Austria		
 - Belgium
-- Bhutan 			- Cambodia			- Canada 
-- China			- Czech Republic		- Ethiopia
-- Finland			- Germany			- India
-- Ireland			- Italy 			- Kenya
-- Latvia			- Japan			- Malaysia
-- Nepal			- New Zealand		- Pakistan
-- Romania			- Singapore			- Spain
-- South Korea		- Switzerland		- United States
-- Thailand			- Turkey			- Uganda
+- Bhutan 		
+- Cambodia
+		- Canada 
+- China		
+	- Czech Republic
+			- Ethiopia
+- Finland
+			- Germany
+						- India
+- Ireland			
+- Italy
+ 			- Kenya
+- Latvia
+			- Japan
+						- Malaysia
+- Nepal			
+- New Zealand
+		- Pakistan
+- Romania	
+		- Singapore
+					- Spain
+- South Korea	
+- Switzerland
+		- United States
+- Thailand	
+		- Turkey
+					- Uganda
 
 Most of these partners are higher education institutions based in the countries mentioned above. Therefore the importance of having a legal document in a proper way is a necessity.
 
